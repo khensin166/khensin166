@@ -1,4 +1,5 @@
-## 👋 Portofolio
+## 👋 Hi, I'm Kenan!
+I'm an Information Technology student with a strong interest in full-stack engineering, proficient in both mobile and web development🔥
 Kunjungi portofolio lengkap saya di sini: [[Portofolio](https://kenan-tomfie-bukit.vercel.app)](#)
 
 ## 🌐 Socials:
